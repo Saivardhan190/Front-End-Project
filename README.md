@@ -28,7 +28,7 @@ JavaScript: Interactive elements and dynamic behavior.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/explore-travel-website.git
+git clone https://github.com/Saivardhan190/Project.git
 Navigate to the project folder:
 bash
 Copy code
@@ -37,8 +37,9 @@ Open index.html in your browser to view the website.
 # Usage
 Simply open index.html in a web browser to start exploring the website. Navigate through sections to discover destinations and enjoy the design and animations.
 
-Screenshots
-(Include images of your website’s main pages and sections here)
+# Screenshots
+![EXPLORE and 2 more pages - Personal - Microsoft​ Edge 21-06-2024 15_45_03](https://github.com/user-attachments/assets/53b59811-4581-48c4-aa16-cf6f7ccd9db1)
+![EXPLORE and 4 more pages - Personal - Microsoft​ Edge 06-11-2024 21_05_15](https://github.com/user-attachments/assets/116e046b-01cd-40a6-825b-ba5a0d3fca54)
 
 # Contributing
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
